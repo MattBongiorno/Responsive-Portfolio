@@ -1,0 +1,38 @@
+body {
+    background: rgb(113, 187, 93);
+}
+
+nav.navbg {
+    border-bottom: 2px solid rgb(7, 78, 34);
+    background-color: rgb(113, 187, 93);
+}
+
+nav a.navbar-brand {
+    font-family: sans-serif;
+    background-color: rgb(2, 78, 20);
+}
+
+a i {
+    font-size: 4rem;
+    color: rgb(105, 230, 10);
+}
+
+i:hover {
+    opacity: 0.7;
+}
+
+div.about-me,
+div.portfolio,
+div.contact {
+    background-color: rgb(76, 172, 3);
+}
+
+
+/* name overlay for portfolio items */
+
+div.portfolio-item h2 {
+    position: relative;
+    top: 75%;
+    margin-top: -25px;
+    background-color: rgba(212, 236, 122, 0.8);
+}
