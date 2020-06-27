@@ -12,6 +12,10 @@ nav a.navbar-brand {
     background-color: rgb(2, 78, 20);
 }
 
+h1.mt-2 {
+    color: rgb(7, 78, 34);
+}
+
 a i {
     font-size: 4rem;
     color: rgb(105, 230, 10);
