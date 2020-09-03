@@ -1,24 +1,24 @@
 body {
-    background: rgb(113, 187, 93);
+    background: rgb(14, 119, 129);
 }
 
 nav.navbg {
-    border-bottom: 2px solid rgb(7, 78, 34);
-    background-color: rgb(113, 187, 93);
+    border-bottom: 2px solid rgb(8, 69, 74);
+    background-color: rgb(14, 119, 129);
 }
 
 nav a.navbar-brand {
     font-family: sans-serif;
-    background-color: rgb(2, 78, 20);
+    background-color: rgb(8, 69, 74);
 }
 
 h1.mt-2 {
-    color: rgb(7, 78, 34);
+    color: rgb(2, 17, 18);
 }
 
 a i {
     font-size: 4rem;
-    color: rgb(105, 230, 10);
+    color: rgb(8, 69, 74);
 }
 
 i:hover {
@@ -28,7 +28,7 @@ i:hover {
 div.about-me,
 div.portfolio,
 div.contact {
-    background-color: rgb(200, 206, 200);
+    background-color: rgb(224, 224, 224);
 }
 
 
@@ -38,5 +38,5 @@ div.portfolio-item h2 {
     position: relative;
     top: 75%;
     margin-top: -25px;
-    background-color: rgba(212, 236, 122, 0.8);
+    background-color: rgba(8, 69, 74, .5);
 }
